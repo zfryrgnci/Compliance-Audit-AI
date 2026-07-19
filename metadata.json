@@ -1,0 +1,6 @@
+{
+  "name": "ComplianceAudit AI",
+  "description": "A high-precision deterministic compliance auditor and risk dashboard that compares documents against standard policy libraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

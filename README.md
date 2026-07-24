@@ -1,3 +1,9 @@
+
+
+## 🔗 Explore the App
+
+[**Click here to explore Compliance-Audit-AI**](https://zfryrgnci.github.io/Compliance-Audit-AI)
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" />
